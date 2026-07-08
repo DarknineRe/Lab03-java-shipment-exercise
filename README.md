@@ -147,7 +147,7 @@ cd path/ที่เก็บโปรเจกต์
 
 ```bash
 # Section 1
-mvn -Dtest=ShipmentTest#sec1* test
+mvn -Dtest=ShipmentTest_Section1 test
 
 # Section 2
 mvn -Dtest=ShipmentTest#sec2* test
